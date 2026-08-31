@@ -1,2 +1,0 @@
-# noxus
-app in app
